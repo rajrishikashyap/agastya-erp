@@ -16,7 +16,7 @@ A full school ERP system with an AI-powered chatbot, built as a single static HT
 - 185 students, 6 classes, realistic dataset
 
 ## Live demo
-[agastya-erp.netlify.app]([https://agastya-erp.netlify.app](https://agastyaassignment.netlify.app/))
+[agastya-erp.netlify.app](https://agastyaassignment.netlify.app/))
 
 ## Run locally
 Just open `index.html` in any browser. No server needed.
